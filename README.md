@@ -99,12 +99,13 @@ The team will make use of the PR- template at the bottom of this file to make su
 ##### PR Checklist 
 The team will make use of the below checklist to make sure all pull requests are clean. This checklist should be looked through by the PR's owner(s) before asking team for a review.
 
-* Is the code in all files properly formatted?
-* Is the naming standards correct?
-* Is there functionality for each line of code?
-* How is the test coverage?
-* Does the title coexist with the user story?
-* Does the link go to the correct user story?
+* Double check formatting
+* Double check naming standards
+* Double check functionality for each line of code/check for commented code and spaces/debuggers
+* Double check test coverag
+* Double check title and user story
+* Double check links to user story
+* Re-run all tests locally
 
 
 #### Accessability
